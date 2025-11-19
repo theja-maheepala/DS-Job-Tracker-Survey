@@ -2,7 +2,7 @@ import zipfile
 import pandas as pd
 import os
 
-# ----  Extract ZIP file ----
+# ----  Extract ZIP file. ----
 zip_path = r"C:\Users\kemer\Downloads\All Datasets.zip"
 extract_folder = "extracted_files"
 
